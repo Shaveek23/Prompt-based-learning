@@ -1,6 +1,11 @@
 # Prompt-based learning
+ENHANCE Winter School in Data Literacy 2023
 
-## ENHANCE Winter School in Data Literacy 2023
+## Contributors
+ * [Paweł Golik](https://www.linkedin.com/in/pgolik/)
+ * [Mateusz Jastrzębiowski](https://www.linkedin.com/in/mjastrzebiowski/)
+
+## About
 
 This repository contains a presentation `./prompt_learning_presentation.pdf` and exemplary notebooks regarding prompting methods for NLP:
  * `./prompt-learning demo`: This notebook shows how to use the [`OpenPrompt`](https://github.com/thunlp/OpenPrompt) library designed for prompting methods.
