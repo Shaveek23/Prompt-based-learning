@@ -9,7 +9,7 @@ ENHANCE Winter School in Data Literacy 2023
 
 This repository contains a presentation `./prompt_learning_presentation.pdf` and exemplary notebooks regarding prompting methods for NLP:
  * `./prompt-learning demo`: This notebook shows how to use the [`OpenPrompt`](https://github.com/thunlp/OpenPrompt) library designed for prompting methods.
- * `./comparing-templates`: This is an example of how to use a Prompt-based Learning with a BERT model from HuggingFace to perform Zero-Shot Text Classification of news articles from the AG News dataset. The notebook illustrates the results achieved using different types of templates.
+ * `./comparing-templates`: This is an example of how to use a Prompt-based Learning with a BERT model from [HuggingFace](https://huggingface.co/) to perform Zero-Shot Text Classification of news articles from the AG News dataset. The notebook illustrates the results achieved using different types of templates.
  
  We recommend to run the notebooks at [Google Colab](https://colab.research.google.com/) with GPU/TPU environment.
 
